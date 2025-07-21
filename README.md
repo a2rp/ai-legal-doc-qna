@@ -6,8 +6,7 @@ allowing users to upload legal or medical PDF documents and ask natural language
 🎯 Built with the goal of exploring AI + Python + React through hands-on experience.
 
 📽️ Working Demo Video
-<video controls src="ai-legal-doc-working-1.mp4" title="Title"></video>
-
+<video controls src="ai-legal-doc-working-2.mp4" title="Title"></video>
 ➡️ Watch here: https://youtu.be/Vx78h5ZkY0s
 
 📂 Project Structure

@@ -28,6 +28,3 @@ Thumbs.db
 .vscode/
 .idea/
 *.code-workspace
-
-# 📹 Video/demo files (optional)
-*.mp4
