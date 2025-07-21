@@ -1,0 +1,33 @@
+# 🔁 Node.js (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.DS_Store
+
+# 🐍 Python (backend)
+backend/__pycache__/
+backend/.env
+backend/venv/
+backend/.DS_Store
+backend/.mypy_cache/
+backend/.pytest_cache/
+
+# 💾 FAISS vector store
+backend/vector_store/*.faiss
+backend/vector_store/*.pkl
+
+# 🚫 OS-specific files
+*.log
+*.tmp
+*.swp
+Thumbs.db
+.DS_Store
+
+# 🧪 Env / IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# 📹 Video/demo files (optional)
+*.mp4
