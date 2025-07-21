@@ -5,8 +5,10 @@ allowing users to upload legal or medical PDF documents and ask natural language
 
 🎯 Built with the goal of exploring AI + Python + React through hands-on experience.
 
-📽️ Working Demo Video
-<video controls src="ai-legal-doc-working-2.mp4" title="Title"></video>
+## 🎯 AI Legal Document QnA – Overview Video
+
+[![Watch the video](https://img.youtube.com/vi/Vx78h5ZkY0s/hqdefault.jpg)](https://youtu.be/Vx78h5ZkY0s)
+
 ➡️ Watch here: https://youtu.be/Vx78h5ZkY0s
 
 📂 Project Structure
@@ -50,7 +52,7 @@ ai-legaldoc-qna/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/ai-legaldoc-qna.git
+git clone https://github.com/a2rp/ai-legal-doc-qna
 cd ai-legaldoc-qna
 
 2. Setup Backend (Python)
